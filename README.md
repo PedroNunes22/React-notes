@@ -24,7 +24,9 @@ Excluir notas: Os usuários podem excluir notas indesejadas clicando no botão d
 
 ## imagens
 ![print-notas](https://github.com/PedroNunes22/React-notes/assets/119435629/3a134df6-70b0-4ae4-9e11-8b6b7b53a420)
+
 ![print-adicionar](https://github.com/PedroNunes22/React-notes/assets/119435629/5a5aed4e-712b-430e-a5cd-6a51d9e160ed)
+
 ![print-excluir](https://github.com/PedroNunes22/React-notes/assets/119435629/279f8282-ba6b-4649-8333-ba1610b754b5)
 
 
